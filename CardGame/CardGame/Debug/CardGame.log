@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\oject oriented programming\cardgame\cardgame\source.cpp(159): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\oject oriented programming\cardgame\cardgame\source.cpp(158): warning C4101: 'i': unreferenced local variable
+d:\oject oriented programming\cardgame\cardgame\source.cpp(305): warning C4129: 'F': unrecognized character escape sequence
+  CardGame.vcxproj -> D:\Oject Oriented Programming\CardGame\Debug\CardGame.exe
+  CardGame.vcxproj -> D:\Oject Oriented Programming\CardGame\Debug\CardGame.pdb (Full PDB)
