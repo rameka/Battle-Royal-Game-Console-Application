@@ -1,4 +1,4 @@
-# Card Game Console Application
+# Card Game : Console Application
 
 Developed a design for the card game, to shuffle cards, deal cards and allow players to enter battles. Each player enters the in to the series of battles with others and the player consisting of all the cards wins the match. Deck of cards, players in hand cards and table of cards were implemented using a linked list, where each node is a card.
 
